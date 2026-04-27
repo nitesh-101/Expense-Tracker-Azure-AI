@@ -59,8 +59,8 @@ project/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/nitesh-101/azure-ai-expense-tracker.git
-cd azure-ai-expense-tracker
+git clone https://github.com/nitesh-101/Expense-Tracker-Azure-AI.git
+cd Expense-Tracker-Azure-AI
 ```
 
 ### 2. Install dependencies

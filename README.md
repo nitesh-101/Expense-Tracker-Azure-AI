@@ -59,7 +59,7 @@ project/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/azure-ai-expense-tracker.git
+git clone https://github.com/nitesh-101/azure-ai-expense-tracker.git
 cd azure-ai-expense-tracker
 ```
 
